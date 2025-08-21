@@ -1,0 +1,9 @@
+results
+env
+venv
+__pycache__
+.vscode
+test.py
+output
+btc.ico
+customwallet.py
